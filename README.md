@@ -1,6 +1,6 @@
 # News API
 
-[PR Link 1]()
+[PR Link 1](https://github.com/ahmad-swedani/drf-auth/pull/1)
 
 
 ### About this project
