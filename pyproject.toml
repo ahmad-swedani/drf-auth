@@ -5,9 +5,13 @@ description = ""
 authors = ["ahmad-swedani <swedani390@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "~3.8"
 django = "^3.1.1"
 djangorestframework = "^3.12.1"
+psycopg2-binary = "^2.8.6"
+whitenoise = "^5.2.0"
+djangorestframework-simplejwt = "^4.4.0"
+gunicorn = "^20.0.4"
 
 [tool.poetry.dev-dependencies]
 
